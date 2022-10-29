@@ -8,6 +8,7 @@ const Campaings = (props: CampaingsProps) => {
     <View style={styles.container}>
       <Text style={styles.text}>Campaings</Text>
       <Text style={styles.text}>1</Text>
+      <Text style={styles.text}>2</Text>
     </View>
   );
 };
