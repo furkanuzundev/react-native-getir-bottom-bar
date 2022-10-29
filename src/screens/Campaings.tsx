@@ -7,7 +7,6 @@ const Campaings = (props: CampaingsProps) => {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Campaings</Text>
-      <Text style={styles.text}>1</Text>
     </View>
   );
 };
